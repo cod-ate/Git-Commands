@@ -1,0 +1,4 @@
+git init        -->  creates a new git repo in your project
+
+git status      -->  shows which files are untracked/changed
+
