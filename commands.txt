@@ -16,5 +16,9 @@ git branch -M main               -->  renames current branch to "main"
 
 git push -u origin main          -->  uploads local projects to GitHub repo
 
+git pull                         -->  downloads the latest changes from github
 
+git clone <URL>                  -->  downloads an existing GitHub repo to pc
+
+git logs                         -->  shows history of commits
 
