@@ -20,5 +20,5 @@ git pull                         -->  downloads the latest changes from github
 
 git clone <URL>                  -->  downloads an existing GitHub repo to pc
 
-git logs                         -->  shows history of commits
+git log                          -->  shows history of commits
 
