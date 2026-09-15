@@ -6,11 +6,13 @@ git add .                        -->  add all the project files to staging area 
 
 git add <FILENAME>               -->  add only chosen project file to staging area	
 
+git reset <FILENAME>             --> removes file from staging area
+
 git commit -m "message"          -->  saves the staged changes as a commit
 
 git remote add origin <URL>      -->  connects local project to GitHub repo
 
-git remote -v                    -->  shows repo name connected to current project
+git remote -v                    -->  shows repo url connected to current project
 
 git branch -M main               -->  renames current branch to "main"
 
