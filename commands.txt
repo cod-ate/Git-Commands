@@ -1,9 +1,20 @@
-git init                   -->  creates a new git repo in your project
+git init                         -->  creates a new git repo in your project
 
-git status                 -->  shows which files are untracked/changed
+git status                       -->  shows which files are untracked/changed
 
-git add .                  -->  add all the project files to staging area (keeps all files on standby before pushing them)
+git add .                        -->  add all the project files to staging area (keeps all files on standby before pushing them)
 
-git add <FILENAME>         -->  add only chosen project file to staging area	
+git add <FILENAME>               -->  add only chosen project file to staging area	
 
-git commit -m "message"    -->  saves the staged changes as a commit
+git commit -m "message"          -->  saves the staged changes as a commit
+
+git remote add origin <URL>      -->  connects local project to GitHub repo
+
+git remote -v                    -->  shows repo name connected to current project
+
+git branch -M main               -->  renames current branch to "main"
+
+git push -u origin main          -->  uploads local projects to GitHub repo
+
+
+
